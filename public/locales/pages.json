@@ -1,0 +1,24 @@
+{
+  "pages": {
+    "en": {
+      "Abgeschlossen": "Closed",
+      "Alle Umfragen sind abgeschlossen.": "All polls are closed.",
+      "Antworten ansehen": "View responses",
+      "Erste Umfrage anlegen": "Create first poll",
+      "Finalen Termin festlegen & schließen": "Set final date & close",
+      "In dieser Ansicht gibt es keine Umfragen.": "There are no polls in this view.",
+      "Ja": "Yes",
+      "Lege deine erste Umfrage an und verteile den Link.": "Create your first poll and share the link.",
+      "Meiste Ja": "Most Yes",
+      "Neue Umfrage": "New poll",
+      "Noch keine Ja-Stimmen.": "No Yes votes yet.",
+      "Noch keine Umfrage — starte mit deiner ersten Terminabstimmung.": "No polls yet — start with your first scheduling poll.",
+      "Offene Umfragen": "Open polls",
+      "Ohne Antworten": "No responses",
+      "Termin festlegen & schließen": "Set date & close",
+      "Zuletzt angelegt: „{0}“ — {1} bisher.": "Last created: \"{0}\" — {1} so far.",
+      "„{0}“ wartet noch auf erste Antworten.": "\"{0}\" is still waiting for its first responses."
+    }
+  },
+  "v": 1
+}
